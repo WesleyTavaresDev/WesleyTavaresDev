@@ -1,11 +1,16 @@
 
-![header](/header.png)
+![header](/download.png)
+________________________________________
 
+<p align ="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyTavaresDev&count_private=true&show_icons=true&hide=issues&theme=ayu-mirage"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTavaresDev&count_private=true&theme=ayu-mirage&layout=compact"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyTavaresDev&count_private=true&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTavaresDev&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   
+</p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=WesleyTavaresDev&theme=tokyonight&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xposeidonix&count=1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WesleyTavaresDev&theme=ayu-mirage&border_radius=4&date_format=j%20M%5B%20Y%5D"/>
+<p>
