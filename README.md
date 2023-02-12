@@ -14,3 +14,5 @@ ________________________________________
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WesleyTavaresDev&theme=ayu-mirage&border_radius=4&date_format=j%20M%5B%20Y%5D"/>
 <p>
+  
+  ________________________________________
