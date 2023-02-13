@@ -3,6 +3,15 @@
 <img src="/banner.png" width="250" height="250">
 </p>
 
+
+<p align="center">
+  <img src="/code.png" width="50" height="50">
+  <img src="/linux_2.png" width="50" height="50" >
+  <img src="/c-sharp.png" width="50" height="50">
+  <img src="/unity.png" width="50" height="50">
+</p>
+
+
 *****
 
 <p align ="center">
