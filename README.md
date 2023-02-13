@@ -1,6 +1,9 @@
 
-![header](/download.png)
-________________________________________
+<p align="center">
+<img src="/banner.png">
+</p>
+
+*****
 
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyTavaresDev&count_private=true&show_icons=true&hide=issues&theme=ayu-mirage"/>
