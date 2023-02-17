@@ -7,9 +7,10 @@
 <p align="center">
   <img src="/code.png" width="50" height="50">
   <img src="/linux_2.png" width="50" height="50" >
+  <img src="https://img.icons8.com/color/48/null/golang.png" width="50" height="50" />
   <img src="/c-sharp.png" width="50" height="50">
   <img src="/unity.png" width="50" height="50">
-  <img src="/code_wars.png" width="50" height="50" href="https://www.codewars.com/users/Wesley_TavDev">
+  <img alt="code_wars" src="/code_wars.png" width="50" height="50" href="https://www.codewars.com/users/Wesley_TavDev">
 </p>
 
 
