@@ -16,11 +16,7 @@
 
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyTavaresDev&count_private=true&show_icons=true&hide=issues&theme=ayu-mirage"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTavaresDev&count_private=true&theme=ayu-mirage&layout=compact"/>
-</p>
-
-<p align="center">
-   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTavaresDev&count_private=true&theme=ayu-mirage&layout=compact"  width="361"/>
 </p>
 
 <p align="center">
